@@ -43,4 +43,4 @@ def cal_bill(unit):
     
     return bill
     
-print(cal_bill(250))
+print(cal_bill(350))

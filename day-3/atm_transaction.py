@@ -20,7 +20,7 @@ def withdrawal(balance, lst):
 
     Returns
     -------
-    status : list of bool
+    result_lst : list of bool
         List of boolean values where:
         - True  → transaction successful
         - False → transaction failed
