@@ -31,7 +31,7 @@ def withdrawal(balance, lst):
     result_lst = []
     for i in lst:
         #Check if it is multiple of 100 and balance is enough to withdraw
-        if i % 100 == 0 and (balance - i) >= 0:
+        if i % 100 == 0 and balance >= i:
             result_lst.append(True)
             balance -= i
         else :

@@ -6,15 +6,15 @@ def password_strength_evaluator(password):
         Password in string
     output
     ------
-    print :
+    stauts : string
         - Strong -> password contains more than 8 characters 
                     and at least one digit and uppercase
         - Weak -> other than
     '''
     if len(password) >= 8 and has_digit(password) and has_uppercase(password) :
-        print("Strong")
+        return "Strong"
     else : 
-        print("Weak")
+        return "Weak"
 
 def has_digit(password) :
     '''
@@ -50,7 +50,7 @@ def has_uppercase(password) :
             return True
     return False
 
-password_strength_evaluator("Vilas1234")
+print(password_strength_evaluator("Vilas1234"))
         
     
     
