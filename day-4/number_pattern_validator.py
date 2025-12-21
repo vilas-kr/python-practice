@@ -38,4 +38,5 @@ def num_to_digits(num):
         num //= 10
     return digits[::-1]
 
-print(number_pattern_validator(int(input("Enter Number : "))))
+if __name__ == "__main__" :
+    print(number_pattern_validator(int(input("Enter Number : "))))
