@@ -34,6 +34,9 @@ def num_to_digits(num):
     digits : list of int
         convert num into digits
     '''
+    if num == 0:
+        return [0]
+    num = abs(num)
     digits = []
     while num != 0 : 
         rem = num % 10
@@ -41,8 +44,9 @@ def num_to_digits(num):
         num //= 10
     return digits[::-1]
 
-n = int(input("Enter a number : "))
-if check_palindrome(n) : 
-    print("PALINDROME")
-else : 
-    print("NOT PALINDROME")
+if __name__ == "__main__" : 
+    n = int(input("Enter a number : "))
+    if check_palindrome(n) : 
+        print("PALINDROME")
+    else : 
+        print("NOT PALINDROME")
