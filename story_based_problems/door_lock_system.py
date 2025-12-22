@@ -27,8 +27,8 @@ def lock_attempt(lock_pin):
     
     Prints
     ------
-    - ACCESS GRANTED -> pin is correct
-    - LOCKED -> after 3 unsuccessful attempt
+        - ACCESS GRANTED -> pin is correct
+        - LOCKED -> after 3 unsuccessful attempt
     '''
     attempt = [int(input()) for i in range(3)]
     for i in attempt :

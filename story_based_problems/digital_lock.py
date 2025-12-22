@@ -38,3 +38,4 @@ def digital_lock(num):
     return num
 
 print(digital_lock(int(input("Enter a number : "))))
+list()
