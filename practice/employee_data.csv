@@ -1,0 +1,102 @@
+Employee_ID,Name,Gender,Age,Department,Salary,Phone,Email,Address
+EMP6496,Maanas Nayar,Female,29,Operations,788302,,simonvasa@example.org,H.No. 11 Jayaraman Pondicherry 900329
+EMP8992,Leena Naidu,Male,44,Operations,942386,3657360032,ekapad70@example.com,25/639 Lala Nagar Allahabad 906042
+EMP6540,Nitara Bansal,Male,32,Marketing,1291681,2611496127,dubeubika@example.com,H.No. 841 Sarraf Circle Orai 067919
+EMP5957,Sanaya Borah,Female,51,HR,1450104,9853654355,isaxena@example.com,50 Goswami Hazaribagh 162579
+EMP7859,Omya Lad,Male,30,IT,1244161,3388662756,nisha38@example.net,H.No. 27 Tank Nagar Mira-Bhayandar-471719
+EMP8212,Jyoti Bansal,Male,40,Marketing,1328493,8478448900,chamansagar@example.org,354 Din Street Vadodara 978536
+EMP0241,Widisha Ramaswamy,Male,30,IT,422603,5158648277,ayaanwason@example.com,863 Kibe Pudukkottai 880942
+EMP4865,Diya Badal,Male,24,IT,539864,0119334253,zayan07@example.net,H.No. 32 Bose Kadapa 166158
+EMP4831,Rayaan Issac,Male,40,HR,673397,9108873643,kalasinha@example.com,65/06 Wable Zila Malegaon 415995
+EMP3750,Divya Shenoy,Male,59,Marketing,886355,3969880973,divanaditya@example.net,57/358 Rai Street Kishanganj-766458
+EMP1362,Jai Pathak,Male,35,HR,1038756,6495109116,tara63@example.com,317 Modi Chowk Guwahati 461790
+EMP2546,Zaid Srinivasan,Female,35,HR,1464569,5257405281,saurora@example.org,H.No. 844 Dyal Ganj Jabalpur-020123
+EMP3815,Isaac Shah,Male,37,Marketing,1154944,2300379667,nagimanthan@example.net,118 Shankar Path Akola 246323
+EMP5737,Raagini Mahajan,Female,31,Operations,1003697,8944791118,chaudharyraagini@example.net,10 Lala Dehradun-338038
+EMP4372,Parth Shere,Male,36,IT,1242461,7161108510,modixiti@example.org,H.No. 48 Bhat Path Bareilly-298951
+EMP1984,Bina Mand,Female,51,Marketing,1173710,4714985321,avi68@example.net,57 Borde Road Sasaram 200506
+EMP9650,Veda Palan,Male,29,HR,822519,1659958383,raghav90@example.com,473 Chaudhari Street Bikaner-312423
+EMP8465,Kashish Kaul,Male,58,HR,1353620,8774736289,tanishseshadri@example.com,H.No. 59 Shetty Road Nagaon-312684
+EMP7935,Pranit Kashyap,Female,38,HR,329267,9260351960,subramanianomaja@example.com,77/02 Prabhakar Path Jabalpur-331022
+EMP1381,Nathan Lad,Male,34,Finance,564091,1344402229,dbhakta@example.net,548 Krish Chandigarh-152699
+EMP6219,Pranav Balasubramanian,Female,42,Marketing,767594,9657673608,hanstristan@example.com,H.No. 96 Dara Ganj Bhopal 633348
+EMP8459,Christopher Sastry,Female,32,IT,1302892,2564197842,nandinimisra@example.org,H.No. 484 Narayanan Road Vasai-Virar 903484
+EMP0381,Charita Balakrishnan,Female,22,Finance,1091295,3564310819,adatta@example.org,H.No. 994 Sanghvi Ganj Jalandhar-936816
+EMP4747,Charan Dugal,Male,28,Operations,961548,6886519475,varugheserudra@example.com,88 Arora Chowk Solapur-553685
+EMP1654,Odika Sundaram,Male,29,Operations,764585,4704831200,okumar@example.org,H.No. 89 Kota Road Kulti 672160
+EMP0562,Ishanvi Bhakta,Female,39,Finance,,,rganesh@example.org,
+EMP5858,Sachi Panchal,Male,24,Finance,1103455,9161352710,balileena@example.org,H.No. 36 Wadhwa Road Dehradun-071108
+EMP8296,Faqid Raghavan,Female,40,Operations,1291142,9525276678,keerarunima@example.com,H.No. 65 Chakrabarti Chowk Narasaraopet-947212
+EMP2071,Avni Borah,Female,22,IT,369220,7626195062,tandongauri@example.net,H.No. 727 Goel Marg Phusro-453623
+EMP7784,Jonathan Hayre,Female,53,Marketing,1383499,1020666909,ydey@example.com,H.No. 48 Palan Path Kurnool 633008
+EMP3682,Ojas Goyal,Female,57,HR,1404098,1397956395,dhaliwalgayathri@example.net,55/84 Narula Nagar Aurangabad 315622
+EMP0879,Pooja Bhasin,Female,32,Operations,,3341513469,lsani@example.com,37/679 Bains Road Satna-484483
+EMP8780,Vrinda Barad,Female,48,Operations,885512,6452593938,tarak43@example.net,
+EMP8780,Vrinda Barad,Female,48,Operations,885512,6452593938,tarak43@example.net,H.No. 754 Parmar Street Karaikudi-422225
+EMP8527,Jack Kar,Male,33,Marketing,1101446,0267261651,warriorvasana@example.org,
+EMP0412,Hemang Deshmukh,Male,40,Operations,1348689,4090648127,chadhahenry@example.net,459 Patla Street Khammam 219024
+EMP7895,Dayita Reddy,Male,27,Operations,364947,7583791828,raaginidin@example.com,03 Sekhon Ganj Singrauli 689193
+EMP4050,Neel Lall,Male,58,Marketing,882942,1268849082,kaulanika@example.net,690 Kant Circle Jorhat 887069
+EMP2003,Krish Kibe,Male,29,Finance,800088,1843603243,,34/286 Sandal Circle Vasai-Virar 033216
+EMP4106,Maanas Tripathi,Female,51,Finance,318876,6605771220,vyanjana17@example.net,H.No. 906 Mangal Zila Kirari Suleman Nagar-711011
+EMP4426,Ikshita Mandal,Female,26,HR,544142,8411064107,yugsachdev@example.com,H.No. 65 Kohli Circle Jammu 343302
+EMP6153,Vedhika Chacko,Female,58,IT,1176202,1129501959,pnayak@example.net,59/10 Natarajan Road Gorakhpur-240689
+EMP6890,Pavani Mahajan,Female,49,Operations,1090519,1208061641,gahluwalia@example.net,215 Sur Nagar Sambalpur 138997
+EMP9569,Vaishnavi Murty,Male,31,Marketing,455871,6556259924,mitterpooja@example.com,85/965 Singhal Zila Bidhannagar-479734
+EMP9430,Charvi Chaudhari,Female,44,Finance,764760,2258530788,sachdevahemal@example.net,701 Pai Zila Tinsukia 450282
+EMP8491,Gavin Jayaraman,Male,26,Marketing,1488876,2426226013,patrick58@example.org,865 Ram Marg Visakhapatnam-009484
+EMP4011,William Bhatnagar,Male,28,Operations,595368,8232080443,ekaraj27@example.net,H.No. 937 Narula Chowk Secunderabad-129022
+EMP0611,Sachi Bhatia,Female,25,Operations,1330695,5693286497,zsarraf@example.net,42 Devan Path Ahmednagar-738057
+EMP6469,Zansi Krishna,Male,44,HR,1437204,9425072234,singhaladitya@example.net,40/472 Dalal Path Indore 358960
+EMP2766,Parikh,Male,60,HR,418397,8700891985,xvyas@example.net,H.No. 71 Hayre Zila Bulandshahr-372731
+EMP7146,Dominic Yadav,Male,52,Marketing,1266861,5915116659,narangjoshua@example.org,H.No. 53 Luthra Road Bhiwani 282754
+EMP5983,Devika Sule,Female,58,IT,595677,5361342292,xdhillon@example.org,06 Shenoy Path Nagaon-662681
+EMP1553,Gautam Bhatt,Female,49,Operations,1300986,9580442763,vchoudhury@example.net,20 Gara Marg North Dumdum 454255
+EMP5616,Panini Karnik,Female,,Operations,827232,4816697676,nagarjack@example.com,80/208 Natt Street Hapur 284914
+EMP4459,Falak Prashad,Female,42,HR,1326084,7747526695,murthyanya@example.org,14/98 Rau Road Bhusawal-896711
+EMP5565,Rachita Patil,Female,54,HR,1079683,9015417100,rattanikita@example.com,883 Ratti Path Ahmednagar-107660
+EMP1444,Indali Lal,Male,25,Operations,538095,5406600815,abhimanyu20@example.com,H.No. 73 Mane Zila Tadepalligudem 403453
+EMP5321,Kashish Madan,Male,42,HR,1335719,7182926040,pranav59@example.net,H.No. 89 Mody Zila Bokaro 447412
+EMP9974,Yug Dube,Female,37,HR,1343834,2252869689,acharyaeta@example.org,84/179 Mahajan Zila Madurai 446541
+EMP5071,Chavvi Bhavsar,Male,54,,1082304,7279839206,vamakshi14@example.net,H.No. 479 Nayak Circle Medininagar 921819
+EMP7108,Abdul Muni,Female,24,IT,466927,3799006995,yauvani07@example.com,576 Murthy Street Rohtak 853641
+EMP2085,Madhav Oak,Male,22,IT,1399922,1933137823,butalaurvashi@example.net,93/946 Chander Marg Pimpri-Chinchwad 553868
+EMP8724,Madhav Dani,Female,28,Marketing,1196313,0749191752,divandarpan@example.com,H.No. 60 Cherian Marg Sambhal 298708
+EMP5983,Devika Sule,Female,58,IT,595677,5361342292,xdhillon@example.org,06 Shenoy Path Nagaon-662681
+EMP2093,Jagrati Chad,Male,49,IT,337446,5123180159,nchandran@example.org,82/77 Dube Ganj Anand-675395
+EMP4212,Veer Dewan,Female,48,IT,1307220,8822522703,basuazaan@example.org,H.No. 38 Bobal Street Mira-Bhayandar 378856
+EMP8703,Ekanta Dara,Female,45,IT,787247,3102305942,falguni27@example.net,H.No. 769 Ghosh Marg Siliguri 232794
+EMP7392,Sara Wadhwa,Female,52,IT,872173,3981612788,gaurav31@example.net,H.No. 18 Ghose Chowk Kadapa 519886
+EMP3136,Anamika Sankar,Female,55,HR,611346,6754315974,ikbal81@example.net,403 Pingle Path Secunderabad 835009
+EMP6802,Mugdha Bains,Male,31,Marketing,879491,4314616119,dhritigour@example.net,52/39 Shenoy Nagar Dehradun-826248
+EMP7584,Caleb Mukherjee,Female,54,Operations,967948,0066634626,keerishwar@example.org,466 Dada Nagar Gaya-718681
+EMP9947,Pranav Nigam,Female,23,Finance,759587,9802799373,niharika93@example.com,H.No. 282 Balay Chowk Kirari Suleman Nagar 654067
+EMP2990,Naksh Balan,Female,35,Finance,1109176,5116247088,venkateshaadhya@example.org,87/92 Mane Path Madurai-416672
+EMP3205,Pallavi Virk,Female,34,Operations,481489,7021090880,kamya68@example.org,H.No. 52 Ghosh Marg Bhalswa Jahangir Pur 052062
+EMP1358,Parth Sabharwal,Female,23,IT,407862,9171917848,inayamohan@example.net,87/258 Sethi Street Erode 169944
+EMP3140,Timothy Chaudhuri,,59,Finance,493817,2044160456,ekantapatla@example.com,27/999 Mallick Path Jalgaon 645867
+EMP8171,Karan Cherian,Male,60,IT,337541,9520183579,lrastogi@example.net,58/382 Mahajan Darbhanga-325289
+EMP9334,Ikbal Sarkar,Male,47,HR,777760,5798653081,bhavikaarya@example.com,H.No. 709 Balakrishnan Path Kurnool-204443
+EMP0842,Chakradhar Tara,Female,49,Operations,386796,5343740945,triya87@example.net,96 Sandhu Circle Tiruvottiyur 084446
+EMP4981,Urishilla Behl,Female,33,Finance,1358569,5770955439,kalashroff@example.com,H.No. 887 Sethi Zila Korba-498337
+EMP8499,Sathvik Guha,Male,24,Marketing,794405,3586760723,paninidora@example.org,729 Sane Nagar Bongaigaon-458853
+EMP3223,Mekhala Jani,Male,,IT,540934,1406554587,agarwallakshit@example.org,46/702 Bahl Street Saharanpur 292176
+EMP6565,Jairaj Agate,Male,58,HR,1379813,4521489535,patrick45@example.com,707 Chaudhari Marg Ranchi-692299
+EMP8601,Adweta Sethi,Male,47,IT,583806,0376696772,vhans@example.net,69 Mall Nagar Alwar-766115
+EMP3701,Xavier Bhagat,Female,39,HR,1292712,1121551322,banerjeejatin@example.com,H.No. 03 Nair Path Pudukkottai-406839
+EMP7694,Yashica Rama,Male,40,Operations,757089,5717902837,thakkarurvi@example.net,H.No. 54 Dutt Street Buxar 095334
+EMP7677,Faraj Chaudhary,Female,45,Marketing,850482,1170152802,xoommen@example.net,63 Bassi Jabalpur-366810
+EMP0084,Manan Sawhney,Male,41,Finance,,2240290379,ikannan@example.com,H.No. 013 Dixit Nagar Hospet-438628
+EMP0889,Garima Parsa,Female,51,HR,540912,3658172381,chavvi06@example.org,H.No. 56 Tank Path Patiala-748642
+EMP9126,Jack Nayar,Male,23,HR,521549,,divyasinghal@example.com,57 Narula Chowk Howrah-113568
+EMP9609,Ikbal Gill,Female,24,Marketing,619116,0885709978,alexander57@example.org,H.No. 364 Chahal Chowk Thanjavur 207921
+EMP1794,Nihal Bassi,Male,49,Marketing,768310,6625408854,kaulvansha@example.org,H.No. 689 Nayak Street Morena-740941
+EMP2749,Joshua Badal,Male,39,Operations,629922,1665844359,theodore01@example.net,H.No. 52 Comar Street Chennai 662053
+EMP4211,Matthew ,Female,55,Marketing,1363227,9373588023,mohantychandani@example.net,
+EMP5694,Kabir Sidhu,Female,55,Marketing,951042,3711120977,ndave@example.com,41/962 Dhingra Chowk Vellore-837856
+EMP3743,Harish Desai,Male,58,Finance,417362,0915711646,charandey@example.net,H.No. 538 Patel Nagpur 862741
+EMP7487,Devansh Sarin,Female,28,HR,727113,8285050703,yseth@example.com,H.No. 666 Baral Road Ranchi-684960
+EMP6664,Joshua Badami,Female,34,IT,885637,0622681626,balhaardani@example.com,03 Soman Street Ballia 893009
+EMP5005,Ronith Deshmukh,Male,50,Marketing,1130651,5808643156,singhkalpit@example.com,33/573 Subramaniam Path Bikaner 340484
+EMP5856,Faris Ramakrishnan,Female,34,Operations,1084515,3841102269,devictor@example.com,H.No. 020 Sarraf Circle Bhind-800179
+EMP8659,Jalsa Mangat,,51,Marketing,325692,9064804665,,42/35 Sandal Hapur 597534
