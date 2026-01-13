@@ -11,5 +11,4 @@ for i in range(count):
     else:
         head += 1
 print(f"Head : {(head/count)*100 :.2f}%   Tail : {(tail/(count))*100 :.2f}%")
-
     
