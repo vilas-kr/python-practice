@@ -216,3 +216,4 @@ CREATE TABLE employee (
     salary DECIMAL(10,2) NOT NULL,
     CONSTRAINT ck_salary CHECK(salary > 0)
 );
+

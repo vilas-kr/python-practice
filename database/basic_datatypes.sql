@@ -96,3 +96,32 @@ FROM String_Test;
 
 SELECT * FROM String_Test;
 
+-- Created a table to test date datatypes
+CREATE TABLE Date_Test (
+    id int, 
+    birth_date date,
+    login_time time(3),
+    created_dt datetime,
+    created_dt2 datetime2(3),
+    created_dto datetimeoffset(3)
+);
+
+-- Inserting valid data --
+INSERT INTO Date_Test VALUES 
+(1, '1999-05-10', '10:30:45.123', '2026-01-24 10:30:45.123',
+'2026-01-24 10:30:45.123', '2026-01-24 10:30:45.123 +05:30');
+
+-- datetime lower limit test
+INSERT INTO Date_Test (id, created_dt)
+VALUES (2, '1500-01-01');
+
+SELECT * FROM Date_Test;
+
+
+
+
+
+
+
+
+
