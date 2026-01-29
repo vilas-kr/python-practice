@@ -77,6 +77,14 @@ ADD CONSTRAINT fk_user_enrollment FOREIGN KEY (user_id)
 REFERENCES users (user_id);
 GO
 
+ALTER TABLE enrollment
+ADD enrollment_status VARCHAR(20);
+GO
+
+ALTER TABLE enrollment
+ADD CONSTRAINT ck_enrollment_status CHECK (enrollment_status IN ('ACTIVE', 'INACTIVE'));
+GO
+
 CREATE TABLE assessment (
 	assessment_id INT IDENTITY(1, 1),
 	course_id CHAR(5),
