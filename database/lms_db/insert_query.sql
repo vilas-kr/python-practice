@@ -79,35 +79,37 @@ INSERT INTO assessment_submit (assessment_id, user_id, obtained_marks, submissio
 (8, 'USER0010', 25, '2025-02-16 17:00:00');
 GO
 
-INSERT INTO user_activity (user_id, lesson_id, activity_status, activity_date) VALUES
-('USER0001', 'LES00001', 'started', '2025-01-02 10:00:00'),
-('USER0001', 'LES00002', 'started', '2025-01-02 08:30:00'),
-('USER0002', 'LES00001', 'started', '2025-01-03 09:00:00'),
-('USER0003', 'LES00006', 'completed', '2025-02-02 10:30:00'),
-('USER0004', 'LES00004', 'started', '2025-01-06 08:30:00'),
-('USER0005', 'LES00001', 'started', '2025-02-02 09:00:00'),
-('USER0005', 'LES00002', 'completed', '2025-02-02 10:30:00'),
-('USER0006', 'LES00004', 'started', '2025-05-11 15:00:00'),
-('USER0006', 'LES00009', 'completed', '2025-02-06 11:00:00'),
-('USER0007', 'LES00013', 'started', '2025-02-08 12:00:00'),
-('USER0007', 'LES00014', 'completed', '2025-12-08 12:00:00'),
-('USER0008', 'LES00003', 'started', '2025-02-11 15:00:00'),
-('USER0009', 'LES00011', 'completed', '2025-02-16 19:00:00'),
-('USER0010', 'LES00013', 'started', '2025-02-16 16:00:00');
+INSERT INTO user_activity (user_id, course_id, lesson_id, activity_status, activity_date) VALUES
+('USER0001', 'CU001', 'LES00001', 'started', '2025-01-02 10:00:00'),
+('USER0001', 'CU001', 'LES00002', 'started', '2025-01-02 08:30:00'),
+('USER0002', 'CU001', 'LES00001', 'started', '2025-01-03 09:00:00'),
+('USER0003', 'CU003', 'LES00006', 'completed', '2025-02-02 10:30:00'),
+('USER0004', 'CU002', 'LES00004', 'started', '2025-01-06 08:30:00'),
+('USER0005', 'CU001', 'LES00001', 'started', '2025-02-02 09:00:00'),
+('USER0005', 'CU001', 'LES00002', 'completed', '2025-02-02 10:30:00'),
+('USER0006', 'CU002', 'LES00004', 'started', '2025-05-11 15:00:00'),
+('USER0006', 'CU002', 'LES00009', 'completed', '2025-02-06 11:00:00'),
+('USER0007', 'CU005', 'LES00013', 'started', '2025-02-08 12:00:00'),
+('USER0007', 'CU005', 'LES00014', 'completed', '2025-12-08 12:00:00'),
+('USER0008', 'CU001', 'LES00003', 'started', '2025-02-11 15:00:00'),
+('USER0009', 'CU004', 'LES00011', 'completed', '2025-02-16 19:00:00'),
+('USER0010', 'CU005', 'LES00013', 'started', '2025-02-16 16:00:00');
 GO 
 
-select * from users;
+select * from lms.users;
 
-select * from course;
+select * from lms.course;
 
-select * from lesson;
+select * from lms.lesson;
 
-select * from enrollment;
+select * from lms.enrollment;
 
-select * from assessment;
+select * from lms.assessment;
 
-select * from assessment_submit;
+select * from lms.assessment_submit;
 
-select * from user_activity;
+select * from lms.user_activity;
+
+
 
 
