@@ -1,0 +1,4 @@
+name,salary,id
+vilas,50000,1
+vinay,4500,2
+parashuram,59000,3
